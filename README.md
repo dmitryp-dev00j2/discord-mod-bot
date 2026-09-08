@@ -39,3 +39,5 @@ The bot exposes an HTTP server on `METRICS_PORT` (default 9100) scraping target:
 - `modbot_mention_spams_total{guild_id}` - triggered mention flood actions
 - `modbot_audit_events_total{action_type}` - audit entries polled and written to db
 - `modbot_actions_taken_total{action}` - auto timeouts / kicks / deletions
+
+<!-- checked: 2026-09-08 -->
